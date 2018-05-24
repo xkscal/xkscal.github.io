@@ -1,0 +1,22 @@
+body {
+  background: #a7ccfd;
+  font-family: "Arial Rounded MT Bold", Charcoal, sans-serif;
+  
+}
+
+h1 {
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  width: auto;
+}
+
+@font-face {
+  font-family: "Arial Rounded MT Bold";
+  src: "arial-rounded-mt-bold/ARLRDBD";
+  
+}
